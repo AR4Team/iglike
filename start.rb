@@ -1,8 +1,9 @@
+require 'awesomeprint'
+require 'Credentials'
 require 'watir'
 require 'pry' 
 require 'rb-readline'
-require 'awesomeprint'
-require 'Credentials'
+
 
 
 count = 0
